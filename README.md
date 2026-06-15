@@ -126,7 +126,7 @@ When prompted to reboot, confirm. Go through MIUI setup again.
    .\adb.exe -d reboot bootloader
    ```
 3. Download the recovery from the [axionOS-merlinx releases](https://github.com/barryC12/axionOS-merlinx/releases/tag/axionOS-merlinx)
-   - **Without root:** `recovery.img`
+   - **Without root:** [`recovery.img`](https://github.com/barryC12/axionOS-merlinx/releases/download/axionOS-merlinx/recovry.img)
    - **With root (Magisk):** [`recovery-magisk.img`](https://github.com/barryC12/axionOS-merlinx/releases/download/axionOS-merlinx/recovry-magisk.img)
 4. Flash it:
    ```bat
