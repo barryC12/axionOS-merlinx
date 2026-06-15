@@ -83,7 +83,7 @@ If it succeeds, your phone's bootloader is now unlocked.
 
 ## Step 5 — Downgrade to MIUI 12.5.4 (if needed)
 
-> Check your MIUI version under **Settings → About Phone**. If you're on **12.5.4 or lower**, skip this step.
+> Check your MIUI version under **Settings → About Phone**. If you're on **12.5.4**, skip this step.
 
 ### Flash PixelExperience Recovery
 
