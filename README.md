@@ -75,7 +75,7 @@ Run the `Latest-ADB-Installer.bat` file **as Administrator**.
    ```
 3. Download the bootloader unlock tool from [this XDA thread](https://xdaforums.com/t/instant-bootloader-unlock-without-losing-data.4599949/)
 4. Install the `.exe` files and **restart your PC**
-5. Run `unlock-bootloader.exe`
+5. Run `unlock-bootloader.bat`
 
 If it succeeds, your phone's bootloader is now unlocked.
 
