@@ -93,7 +93,7 @@ Reboot to bootloader, then:
 .\fastboot.exe flash recovery PixelExperience_merlinx-13.0-20221113-1311-OFFICIAL.img
 ```
 
-Download the recovery image: [PixelExperience merlinx recovery](https://get.pixelexperience.org/startDownload?url=https%3A%2F%2Fdl.pixelexperience.org%2FPv_GKKuO_pDekL3RihvybnUM6TxgOdCGo_C_gxJWR2kz_9o1Ow272uNHN223gc6n9_prw51CxMUUaLaPhy4FyQw-8Kem33IEGjIRBKsxjJM%3D%2FPixelExperience_merlinx-13.0-20221113-1311-OFFICIAL.img)
+Download the recovery image: [PixelExperience merlinx recovery](https://dl.pixelexperience.org/Pv_GKKuO_pDekL3RihvybjIXp2_pyvfm9J8N75yc1rAz_9o1Ow272uNHN223gc6n9_prw51CxMUUaLaPhy4FyQw-8Kem33IEGjIRBKsxjJM=/PixelExperience_merlinx-13.0-20221113-1311-OFFICIAL.img)
 
 ### Boot into Recovery
 
