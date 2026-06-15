@@ -41,7 +41,7 @@
 2. Click the **Refresh** button — your phone should appear with an error next to it
 3. Go to the **Action** tab → **Add Legacy Hardware**
 4. Select **Manually** → highlight **All Devices** → press **Next**
-5. Click **Have Disk** → **Browse** and select the Xiaomi ADB driver ZIP you downloaded
+5. Click **Have Disk** → **Browse** and select the Xiaomi ADB driver CAB fIle you downloaded
 6. Install it
 
 ### Fastboot Driver
